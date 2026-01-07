@@ -1,0 +1,15 @@
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+flask-login==0.6.3
+flask-bcrypt==1.0.1
+flask-sqlalchemy==3.1.1
+
+# Production Server
+gunicorn==21.2.0
+
+# Database
+psycopg2-binary==2.9.9
+
+# Utilities
+python-dotenv==1.0.0
